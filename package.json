@@ -1,5 +1,5 @@
 {
-  "name": "node-lab",
+  "name": "NodeLab",
   "version": "0.0.0",
   "description": "",
   "homepage": "",
@@ -13,7 +13,7 @@
   ],
   "main": "dist/index.js",
   "keywords": [],
-  "repository": "batibatou/node-lab",
+  "repository": "batibatou/NodeLab",
   "devDependencies": {
     "babel-core": "^5.5.0",
     "chai": "^3.4.1",
